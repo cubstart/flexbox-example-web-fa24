@@ -1,10 +1,8 @@
-# Flexbox Example
+# Flexbox - Lab Example
 
-Cubstart Web, Fall 2024
+**Cubstart Web**, Fall 2024. Learn more at [Cubstart.com](http://cubstart.com)
 
-Author: Ahmed Hugais
-
-Learn more at [Cubstart.com](http://cubstart.com)
+Author: *Ahmed Hugais*
 
 ![FlexBox-Example](./readme-image.png)
 
